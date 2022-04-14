@@ -37,6 +37,8 @@
       "username.placeholder": "Ваш логін",
       "newpassword.label": "Новий пароль",
       "newpassword.placeholder": "Новий пароль",
+      "currentpassword.label": "Теперішній пароль",
+      "currentpassword.placeholder": "Теперішній пароль",
       "confirmpassword.label": "Підтвердження нового пароля",
       "confirmpassword.placeholder": "Підтвердіть новий пароль",
       "email.label": "Електронна пошта",
